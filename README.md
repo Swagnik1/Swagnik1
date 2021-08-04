@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Swagnik1
+- 👀 I’m interested in Javascript, Node JS, MYSQL ...
+- 🌱 I’m currently learning JS, Node JS, Python, Java ...
+- 📫 How to reach me ...
+
+<!---
+Swagnik1/Swagnik1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
